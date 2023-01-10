@@ -1,0 +1,1 @@
+print("Dummy script to activate the google cloud trigger.")
